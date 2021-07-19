@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3d11392-024d-4914-82dc-8557698bc9e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/todo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controller/auth.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controller/todos.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controller/users.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/auth.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/todos.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/routes/users.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/views/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clients/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vXn1vkJWS7BItHtYq7sDcOBXUY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3d11392-024d-4914-82dc-8557698bc9e9" name="Default Changelist" comment="" />
+      <created>1626717089847</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626717089847</updated>
+      <workItem from="1626717091105" duration="5847000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
