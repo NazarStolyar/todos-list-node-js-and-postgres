@@ -2,38 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3d11392-024d-4914-82dc-8557698bc9e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/todo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controller/auth.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controller/todos.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controller/users.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/auth.routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/todos.routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/users.routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/components/HelloWorld.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/store/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/views/About.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/src/views/Home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/clients/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/middleware/auth.middlewear.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controller/auth.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/controller/auth.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controller/todos.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/controller/todos.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/todos.routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/todos.routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626717089847</updated>
-      <workItem from="1626717091105" duration="5847000" />
+      <workItem from="1626717091105" duration="10690000" />
     </task>
     <servers />
   </component>
