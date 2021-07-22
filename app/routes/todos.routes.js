@@ -3,9 +3,9 @@ const router = new Router();
 const TodosController = require('../controller/todos.controller');
 const AuthMiddleware = require('../middleware/auth.middlewear')
 
-router.post(`/create`, AuthMiddleware, TodosController.createTodos)
-router.put(`/edit/:id`, AuthMiddleware, TodosController.updateTodos)
-router.delete(`/delete/:id`, AuthMiddleware, TodosController.deleteTodos)
+router.post(`/`, AuthMiddleware, TodosController.createTodos)
+router.put(`/`, AuthMiddleware, TodosController.updateTodos)
+router.delete(`/:id`, AuthMiddleware, TodosController.deleteTodos)
 router.get(`/:id`, AuthMiddleware, TodosController.getTodoById)
 router.get(`/user_id/:id`, AuthMiddleware, TodosController.getTodosByUserId)
 router.get(`/`, AuthMiddleware, TodosController.searchTodos)
